@@ -1,0 +1,10 @@
+# Original uploaded media. Clean, web-ready copies of every one of these
+# files live in assets/ and are tracked there instead.
+WhatsApp Image *.jpeg
+WhatsApp Video *.mp4
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
